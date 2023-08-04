@@ -3,13 +3,11 @@
   Nowshin Anber (https://github.com/nowshin-108)
   Computer Science, Florida International University (Sophomore-2023)
 
-# vue-project
+# Demo
 
-This template should help get you started developing with Vue 3 in Vite.
 
-## Recommended IDE Setup
+https://github.com/nowshin-108/Infrustructure-Location-Map/assets/117230814/15973b22-776d-49f1-a9bf-908c71c87e18
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
 
 ## Customize configuration
 
